@@ -20,7 +20,7 @@ namespace WpfApp2
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            // Код, который выполнится при нажатии на кнопку
+            
             MessageBox.Show("Button Clicked!");
         }
     }
