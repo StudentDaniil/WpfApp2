@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <!-- Пример добавления кнопки -->
-        <Button Content="Click me" Click="Button_Click"/>
+        
+        <Button Content="Фигура" Click="Button_Click"/>
     </Grid>
 </Window
